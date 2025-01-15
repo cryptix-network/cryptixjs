@@ -1,0 +1,28 @@
+{
+  "name": "cryptixjs",
+  "version": "2.0.3",
+  "description": "Simple Cryptix library for interacting with Cryptixd & Cryptixwalletd gRPC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptix-network/Cryptixjs.git"
+  },
+  "keywords": [
+    "cryptix",
+    "cryptixjs",
+    "cryptocurrency"
+  ],
+  "author": "KaffinPX",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/cryptix-network/Cryptixjs/issues"
+  },
+  "homepage": "https://github.com/cryptix-network/Cryptixjs#readme",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.6.7",
+    "@grpc/proto-loader": "^0.6.13"
+  }
+}
